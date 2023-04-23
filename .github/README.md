@@ -36,6 +36,6 @@ nvim
 ```
 
 #### Preview
-![Preview](https://raw.githubusercontent.com/pradana4648/nvim-config/main/nvim.png)
-![Plugins](https://raw.githubusercontent.com/pradana4648/nvim-config/main/nvim%20plugins.png)
+![Preview](https://github.com/pradana4648/nvim-config/blob/30ee15db86b512e18268c29909b3d8a270314fd5/.preview/nvim.png)
+![Plugins](https://github.com/pradana4648/nvim-config/blob/30ee15db86b512e18268c29909b3d8a270314fd5/.preview/nvim%20plugins.png)
 ![Workspace](https://github.com/pradana4648/nvim-config/blob/6e54b3984c75287c30f64de8e172b939b5286028/nvim%20home.png)
