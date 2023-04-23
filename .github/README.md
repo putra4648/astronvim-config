@@ -35,4 +35,5 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/us
 nvim
 ```
 
-![Preview](./nvim.png)
+#### Preview
+![Preview](https://raw.githubusercontent.com/pradana4648/nvim-config/main/nvim.png)
