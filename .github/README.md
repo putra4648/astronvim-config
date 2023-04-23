@@ -37,3 +37,4 @@ nvim
 
 #### Preview
 ![Preview](https://raw.githubusercontent.com/pradana4648/nvim-config/main/nvim.png)
+![Plugins](https://raw.githubusercontent.com/pradana4648/nvim-config/main/nvim%20plugins.png)
