@@ -6,9 +6,10 @@ return {
 
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.java" },
-  { import = 'astrocommunity.pack.dart' },
+  -- { import = 'astrocommunity.pack.dart' },
   { import = 'astrocommunity.pack.typescript' },
   { import = 'astrocommunity.editing-support.todo-comments-nvim' },
-  { import = 'astrocommunity.editing-support.nvim-ts-rainbow2' },
+  { import = 'astrocommunity.editing-support.rainbow-delimiters-nvim' },
   { import = 'astrocommunity.diagnostics.trouble-nvim' },
+  -- { import = 'astrocommunity.media.presence-nvim' },
 }

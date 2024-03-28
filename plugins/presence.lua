@@ -1,6 +1,6 @@
 return {
   "andweeb/presence.nvim",
-  event = "VeryLazy",
+  lazy= false,
   opts = {
     neovim_image_text = "Apa itu VSCODE?",
     main_image = "file",
